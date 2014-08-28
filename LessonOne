@@ -1,0 +1,22 @@
+<?php // This is how you start off PHP, it can be used inside HTML.
+print "Hello world."; // This will simply print "Hello world."
+print "<br /> World hello."; // You can also include HTML within your PHP.
+echo " Dlrow olleh"; // Of course, you can use Echo as well, it's the same.
+
+// Apparently there's some form of difference between "" and '' but for programs
+// like this, I don't think it really matters.
+// There's some debate about this, so I'm unsure.
+
+print "<h1> My First PHP program.</h1>";
+print "<p> This is my first program using PHP, I'm going to be using it alongside HTML.</p>";
+print "The only issue I have currently is the semi-colon, as I've been coding in VB lately! </p>";
+echo "I don't really see much of an issue with print or echo really.";
+print "<h2> Things to remember for PHP.</h2>";
+echo "
+<ul>
+<li>Print is the same as Echo.</li>
+<li> There is apparently a difference between quatation marks and Apostrophes! </li>
+<li> There is a semi-colon at the end! </li>
+</ul>";
+
+?>
