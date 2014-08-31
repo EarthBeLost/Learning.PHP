@@ -1,11 +1,19 @@
 <?php // This is how you start off PHP, it can be used inside HTML.
-print "Hello world."; // This will simply print "Hello world."
-print "<br /> World hello."; // You can also include HTML within your PHP.
-echo " Dlrow olleh"; // Of course, you can use Echo as well, it's the same.
 
-// Apparently there's some form of difference between "" and '' but for programs
-// like this, I don't think it really matters.
-// There's some debate about this, so I'm unsure.
+/**
+Echo and print seem to be the same thing.
+Apparently there is debate between having ' or " being faster.
+Using echo/print to display HTML is pretty cool as well.
+*/
+
+// This will simply print "Hello World."
+print "Hello World.";
+
+// You can also include HTML within your PHP.
+print " <br /> Hello World.";
+
+// Of course, you can use Echo as well, it's the same.
+echo " Hello World.";
 
 print "<h1> My First PHP program.</h1>";
 print "<p> This is my first program using PHP, I'm going to be using it alongside HTML.</p>";
