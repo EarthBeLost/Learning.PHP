@@ -1,9 +1,9 @@
 <?php // This is how you start off PHP, it can be used inside HTML.
 
 /**
-Echo and print seem to be the same thing.
-Apparently there is debate between having ' or " being faster.
-Using echo/print to display HTML is pretty cool as well.
+*Echo and print seem to be the same thing.
+*Apparently there is debate between having ' or " being faster.
+*Using echo/print to display HTML is pretty cool as well.
 */
 
 // This will simply print "Hello World."
