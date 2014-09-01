@@ -8,13 +8,13 @@
 // As you can see, I've included PHP into this HTML code.
 
 /**
-These are variables in PHP.
-unlike most programming languages, you don't have to delcare datatypes.
-Variables are shown with $ at the start, then = to assign the value.
-As always, when you end a variable, you end it with a semi-colon.
-It's also good practice to take some naming conventions. (I use CamelCase).
-
+* These are variables in PHP.
+* unlike most programming languages, you don't have to delcare datatypes.
+* Variables are shown with $ at the start, then = to assign the value.
+* As always, when you end a variable, you end it with a semi-colon.
+* It's also good practice to take some naming conventions. (I use CamelCase).
 */
+
 $firstVariable = "This is my first Variable.";
 $secondVariable = "This is my second variable.";
 $thirdVariable = "Let's do some maths!";
